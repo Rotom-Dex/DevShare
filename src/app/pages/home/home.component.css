@@ -1,0 +1,27 @@
+
+.headImage img{
+    width: 100%;
+}
+
+.btn {
+    /* width: auto; */
+    background-color: #FE83C6;
+    color: #323232;
+    border: none;
+    outline: none;
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-weight: 600;
+    margin: 5px 10px 0 0;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .btn:hover {
+    background-color:#FA4EAB;
+    color: #FFF2F9;
+  }
+  .btn img{
+      width: 1rem;
+      color: #524A4E;
+  }
